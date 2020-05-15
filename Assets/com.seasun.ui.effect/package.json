@@ -1,0 +1,24 @@
+{
+  "name": "com.seasun.ui.effect",
+  "version": "0.1.0",
+  "unity": "2019.3",
+  "unityRelease": "0a10",
+  "displayName": "UI Effect",
+  "description": "ui effect Runtime & Editor Package contains the tooling and the runtime component that allows you to create very organic looking spline based ugui. It comes with intuitive configurator and a highly performant renderer.",
+  "keywords": [
+    "ui",
+    "effect"
+  ],
+  "category": "UI",
+  "dependencies": {
+    "com.unity.mathematics": "1.1.0",
+    "com.unity.2d.common": "2.0.2",
+    "com.unity.2d.path": "2.0.4"
+  },
+  "repository": {
+    "footprint": "c4b65d20564fdc475c810989d8b9da698ad4afb7",
+    "type": "git",
+    "url": "https://github.com/Unity-Technologies/ScriptableRenderPipeline.git",
+    "revision": "3e04a9da77f7658a9bec4a2a8de3a4a40b169865"
+  }
+}

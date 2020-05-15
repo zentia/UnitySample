@@ -1,0 +1,23 @@
+{
+    "name": "UI.Effect.Editor",
+    "references": [
+        "Unity.InternalAPIEditorBridge.001",
+        "Unity.2D.Common.Editor",
+        "Unity.2D.Common.Runtime",
+        "Unity.2D.SpriteShape.Runtime",
+        "Unity.2D.Path.Editor",
+        "Unity.VectorGraphics.Editor",
+        "UIEffect.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
