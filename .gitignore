@@ -2,3 +2,7 @@
 /.idea
 /Temp
 /_ReSharper.Caches
+Logs
+*.csproj
+*.sln
+obj/Debug

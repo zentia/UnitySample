@@ -1,5 +1,22 @@
 {
   "dependencies": {
-    "com.unity.ugui": "1.0.0"
+    "com.unity.ai.navigation": "2.0.0",
+    "com.unity.feature.2d": "2.0.0",
+    "com.unity.feature.characters-animation": "1.0.0",
+    "com.unity.feature.cinematic": "1.0.0",
+    "com.unity.feature.development": "1.0.2",
+    "com.unity.feature.gameplay-storytelling": "1.0.0",
+    "com.unity.feature.mobile": "1.0.0",
+    "com.unity.feature.worldbuilding": "1.0.1",
+    "com.unity.ide.rider": "3.0.31",
+    "com.unity.ide.visualstudio": "2.0.22",
+    "com.unity.logging": "1.0.16",
+    "com.unity.render-pipelines.universal": "16.0.6",
+    "com.unity.services.analytics": "5.1.1",
+    "com.unity.ugui": "2.0.0",
+    "com.unity.vectorgraphics": "2.0.0-preview.24",
+    "com.unity.modules.accessibility": "1.0.0",
+    "com.unity.modules.particlesystem": "1.0.0",
+    "com.unity.modules.subsystems": "1.0.0"
   }
 }
